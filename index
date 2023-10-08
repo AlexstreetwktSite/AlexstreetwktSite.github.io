@@ -1,0 +1,22 @@
+<!doctype htlm>
+<html lang="fr">
+            <head>
+            <meta charset="utf-8">
+            <title>Musculation</title>
+            <link rel="stylesheet" href="css/css.css">
+            <style>
+                body {
+                background-image:url(css/image-vidéo/MusculationAccueil.jpg);
+                background-repeat: no-repeat;
+                background-attachment: fixed;
+                background-position: center;
+                background-size: cover;
+                }
+             </style>
+            </head>
+
+         
+<h4><mark><a style="color: black" href="https://Alexstreetwkt.github.io/Paged'accueilMuscu.html"> WELCOME </a></mark></h4>
+
+</body></div>
+</htlm>
