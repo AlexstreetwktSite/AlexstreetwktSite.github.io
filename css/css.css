@@ -49,7 +49,16 @@ h4  {
         position: absolute;
         top: 30%; left: 50%;
         transform: translate(-50%, -50%);
-        text-shadow: 0 0 15px red, 0 0 25px red;
+        text-shadow: 0 0 10px white, 0 0 0 white;
+    }
+
+h6  {
+    font-size: 90;
+        position: absolute;
+        top: 35%; left: 50%;
+        transform: translate(-50%, -50%);
+        text-shadow: 0 0 15px white, 0 0 25px red;
+    }
 
 img{
     max-width: 100%;
