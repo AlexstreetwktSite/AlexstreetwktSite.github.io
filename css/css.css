@@ -45,11 +45,8 @@ h4  {
  }
 
  h5  {
-    font-size: 90;
-        position: absolute;
-        top: 30%; left: 50%;
-        transform: translate(-50%, -50%);
-        text-shadow: 0 0 10px white, 0 0 0 white;
+    font-size: 50;
+    text-shadow: 0 0 10px white, 0 0 0 white;
     }
 
 h6  {
